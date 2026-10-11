@@ -4,7 +4,7 @@
 
 A standalone Windows x86 / .NET 8 WPF desktop application with a SaaS-style interface. No BAT files, Python, Frida, browser, or separate .NET installation is required to use it.
 
-## Note: In the #update channel on Discord, smilex has updated the game version. If you’re having trouble launching the launcher, it’s because the versions don’t match. The launcher itself only supports version 0930 of CSNZ. If you’re using version 0722, you’ll need to modify the source code yourself to make it compatible with other versions. Please don’t contact me regarding game version issues.
+## This game does not support other versions of CSNZ; it is designed exclusively for the 0930 version game files in the #update channel. If you are using a different version, please fork the code and adapt it yourself. Please do not contact me for help with version-related issues.
 
 ## Usage
 
