@@ -4,7 +4,7 @@
 
 A standalone Windows x86 / .NET 8 WPF desktop application with a SaaS-style interface. No BAT files, Python, Frida, browser, or separate .NET installation is required to use it.
 
-## This game does not support other versions of CSNZ; it is designed exclusively for the 0930 version game files in the #update channel. If you are using a different version, please fork the code and adapt it yourself. Please do not contact me for help with version-related issues.
+## Note: This game does not support other versions of CSNZ; it is designed exclusively for the 0930 version game files in the #update channel. If you are using a different version, please fork the code and adapt it yourself. Please do not contact me for help with version-related issues.
 
 ## Usage
 
